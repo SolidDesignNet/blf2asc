@@ -1,0 +1,9 @@
+[package]
+name = "blf2asc"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ablf="0.2.0"
+anyhow="1.0.97"
+acc_reader="2.0.0"
